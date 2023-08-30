@@ -1,0 +1,281 @@
+[
+  {
+    "nombre": "Aparatos de intercambio de temperatura",
+    "cods": "8418",
+    "descripcion": "Refrigeradores, congeladores y demás material, máquinas y aparatos para producción de frío, aunque no sean eléctricos; bombas de calor"
+  },
+  {
+    "nombre": "Aparatos de intercambio de temperatura",
+    "cods": "8415",
+    "descripcion": "Máquinas y aparatos para acondicionamiento de aire que comprendan un ventilador con motor y los dispositivos adecuados para modificar la temperatura y humedad, aunque no regulen separadamente el grado higrométrico"
+  },
+  {
+    "nombre": "Aparatos de intercambio de temperatura",
+    "cods": "7322",
+    "descripcion": "Radiadores para calefacción central, de calentamiento no eléctrico, y sus partes, de fundición, hierro o acero; generadores y distribuidores de aire caliente (incluidos los distribuidores de aire acondicionado), de calentamiento no eléctrico, que lleven un ventilados o un soplador con motor, y sus partes de fundición, hierro o acero"
+  },
+  {
+    "nombre": "Monitores, pantallas, y aparatos con pantallas de superficie superior a los 100 cm2",
+    "cods": "8528",
+    "descripcion": "Monitores y proyectores, que no incorporen aparato receptor de televisión; aparatos receptores de televisión, incluso con aparato receptor de radiodifusión o grabación o reproducción de sonido o imagen incorporado."
+  },
+  {
+    "nombre": "Monitores, pantallas, y aparatos con pantallas de superficie superior a los 100 cm3",
+    "cods": "8471300000",
+    "descripcion": "Máquinas automáticas para tratamiento o procesamiento de datos, portátiles, de peso inferior o igual a 10 kg, que estén constituidas, al menos, por una unidad central de proceso, un teclado y un visualizador"
+  },
+  {
+    "nombre": "Lámparas",
+    "cods": "8539",
+    "descripcion": "Lámparas y tubos eléctricos de incandescencia o de descarga, incluidos los faros o unidades \"sellados\" y las lámparas y tubos de rayos ultravioletas o infrarrojos; lámparas de arco"
+  },
+  {
+    "nombre": "Lámparas",
+    "cods": "8540",
+    "descripcion": "Lámparas, tubos y válvulas electrónicos, de cátodo caliente, cátodo frio o fotocátodo (por ejemplo: lámparas, tubos y válvulas, de vacío, de vapor o gas, tubos rectificadores de vapor de mercurio, tubos catódicos, tubos y válvulas para cámaras de televisión), excepto los de la partida 85.39"
+  },
+  {
+    "nombre": "Grandes aparatos",
+    "cods": "8422",
+    "descripcion": "\"Máquinas para lavar vajilla; máquinas y aparatos para limpiar o secar botellas o demás recipientes; máquinas y aparatos para llenar, cerrar, tapar, taponar o etiquetar botellas,"
+  },
+  {
+    "nombre": " botes o latas, cajas, sacos (bolsas) o demás continentes; máquinas y aparatos para capsular botellas, tarros, tubos y continentes análogos; las demás máquinas y aparatos para empaquetar o envolver mercancías (incluidas las de envolver con película termorretractil); máquinas y aparatos para gasear bebidas\""
+  },
+  {
+    "nombre": "Grandes aparatos",
+    "cods": "8450",
+    "descripcion": "Máquinas para lavar ropa, incluso con dispositivo de secado"
+  },
+  {
+    "nombre": "Grandes aparatos",
+    "cods": "8451",
+    "descripcion": "Máquinas y aparatos (excepto las máquinas de la partida 84.50) para lavar, limpiar, escurrir, secar, planchar, prensar (incluidas las prensas para fijar), blanquear, teñir, aprestar, acabar, recubrir o impregnar hilados, telas o manufacturas textiles y máquinas para el revestimiento de telas u otros soportes utilizados en la fabricación de cubre suelos, tales como linóleo; máquinas para enrollar, desenrollar, plegar, cortar o dentar telas"
+  },
+  {
+    "nombre": "Grandes aparatos",
+    "cods": "8542",
+    "descripcion": "Circuitos electrónicos integrados"
+  },
+  {
+    "nombre": "Grandes aparatos",
+    "cods": "8443",
+    "descripcion": "Máquinas y aparatos de oficina para imprimir, offset, alimentados con hojas en las que un lado sea inferior o igual a 22 cm y el otro sea inferior o igual a 36 cm, medidas sin plegar, máquinas que efectúan dos o más de las siguientes funciones: impresión, copia o fax, aptas para ser conectadas a una máquina automática para tratamiento o procesamiento de datos o a una red"
+  },
+  {
+    "nombre": "Grandes aparatos",
+    "cods": "8486",
+    "descripcion": "Máquinas y aparatos utilizados, exclusiva o principalmente, para la fabricación de semiconductores en forma de mono cristales periformes u obleas (“wafers”), dispositivos semiconductores, circuitos electrónicos integrados o dispositivos de visualización (display) de pantalla plana; máquinas y aparatos descritos en la nota 9 c) de este capítulo; partes y accesorios"
+  },
+  {
+    "nombre": "Grandes aparatos",
+    "cods": "8514",
+    "descripcion": "Hornos eléctricos o de laboratorio, incluidos los que funcionen por inducción o perdidas dieléctricas; los demás aparatos industriales o de laboratorio para tratamiento térmico de materias por inducción o perdidas dieléctricas"
+  },
+  {
+    "nombre": "Grandes aparatos",
+    "cods": "8516600000",
+    "descripcion": "Los demás hornos; cocinas, hornillos (calentadores) (incluidas las mesas de cocción), parrillas y asadores"
+  },
+  {
+    "nombre": "Grandes aparatos",
+    "cods": "8516100000",
+    "descripcion": "Calentadores eléctricos de agua de calentamiento instantáneo o acumulación y calentadores eléctricos de inmersión"
+  },
+  {
+    "nombre": "Grandes aparatos",
+    "cods": "9018110000, 9018120000, 9018130000, 9018140000, 9018200000, 9018410000, 9018500000, 9019100000, 9019200000, 9020000000, 9021500000, 9022120000, 9022130000, 9022140000, 9022190000, 9022300000",
+    "descripcion": "Electrocardiógrafos, aparatos de diagnóstico por exploración ultrasónica (ecografía), aparatos de diagnóstico de visualización por resonancia magnética, aparatos de centello grafía, aparatos de rayos ultravioletas o infrarrojos, tornos dentales, incluso combinados con otros equipos dentales sobre basamento común, aparatos de mecanoterapia; aparatos para masajes; aparatos de psicotecnia, aparatos de ozonoterapia, oxigenoterapia o aerosol terapia, aparatos respiratorios de reanimación y demás aparatos de terapia respiratoria, los demás aparatos respiratorios y máscaras antigás, excepto las máscaras de protección sin mecanismo ni elemento filtrante amovible, estimuladores cardíacos, excepto sus partes y accesorios, aparatos de tomografía regidos por una máquina automática de tratamiento o procesamiento de datos, los demás, para uso odontológico, los demás, para uso médico, quirúrgico o veterinario, para otros usos, para uso médico, quirúrgico, odontológico o veterinario, tubos de rayos x"
+  },
+  {
+    "nombre": "Grandes aparatos",
+    "cods": "9024100000, 9025110000, 9027200000, 9027300000, 9027500000",
+    "descripcion": "Máquinas y aparatos para ensayo de metal, de líquido, con lectura directa, cromatografías e instrumentos de electroforesis, espectrómetros, espectrofotómetros y espectrógrafos que utilicen radiaciones ópticas (UV, visibles, IR), los demás instrumentos y aparatos que utilicen radiaciones ópticas (UV, visibles, IR)"
+  },
+  {
+    "nombre": "Grandes aparatos",
+    "cods": "8447",
+    "descripcion": "Máquinas de tricotar, de coser por cadeneta, de entorchar, de fabricar tul, encaje, bordados, pasamanería, trenzas, redes o de insertar mechones"
+  },
+  {
+    "nombre": "Grandes aparatos",
+    "cods": "8458",
+    "descripcion": "Tornos (incluidos los centros de torneado) que trabajen por arranque de metal"
+  },
+  {
+    "nombre": "Grandes aparatos",
+    "cods": "8459",
+    "descripcion": "Maquinas (incluidas las unidades de mecanizado de correderas) de taladrar, escariar, fresar o roscar (incluso aterrajar) metal, por arranque de materia, excepto los tornos (incluidos los centros de torneado) de la partida 84.58"
+  },
+  {
+    "nombre": "Grandes aparatos",
+    "cods": "8460",
+    "descripcion": "Máquinas de desbarbar, afilar, amolar, rectificar, lapear (bruñir), pulir o hacer otras operaciones de acabado, para metal o cermet, mediante muelas, abrasivos o productos para pulir, excepto las máquinas para tallar o acabar engranajes de la partida 84.61"
+  },
+  {
+    "nombre": "Grandes aparatos",
+    "cods": "8462",
+    "descripcion": "\"Maquinas (incluidas las prensas) de forjar o estampar, martillos pilón y otras máquinas de martillar, para trabajar metal; maquinas (incluidas las prensas) de enrollar, curvar, plegar, enderezar, aplanar, cizallar, punzonar o entallar, metal; prensas para trabajar metal o carburos metálicos, no expresadas"
+  },
+  {
+    "nombre": " anteriormente\""
+  },
+  {
+    "nombre": "Grandes aparatos",
+    "cods": "8465",
+    "descripcion": "Maquinas herramienta (incluidas las de clavar, grapar, encolar o ensamblar de otro modo) para trabajar madera, corcho, hueso, caucho endurecido, plástico rígido o materias duras similares"
+  },
+  {
+    "nombre": "Grandes aparatos",
+    "cods": "8476",
+    "descripcion": "Máquinas automáticas para la venta de productos (por ejemplo: sellos (estampillas), cigarrillos, alimentos, bebidas), incluidas las máquinas para cambiar moneda"
+  },
+  {
+    "nombre": "Grandes aparatos",
+    "cods": "8515",
+    "descripcion": "Máquinas y aparatos para soldar (aunque puedan cortar), eléctricos (incluidos los de gas calentado eléctricamente), de laser u otros haces de luz o de fotones, ultrasonido, haces de electrones, impulsos magnéticos o chorro de plasma; máquinas y aparatos eléctricos para proyectar en caliente metal o cermet"
+  },
+  {
+    "nombre": "Grandes aparatos",
+    "cods": "8516310000",
+    "descripcion": "Secadores de manos"
+  },
+  {
+    "nombre": "Grandes aparatos",
+    "cods": "8421120000, 8421910000",
+    "descripcion": "Secadoras de ropa, de centrifugadoras, incluidas las de secadoras centrífugas"
+  },
+  {
+    "nombre": "Grandes aparatos",
+    "cods": "8421210000, 8421220000",
+    "descripcion": "Para filtrar o depurar agua; para filtrar o depurar las demás bebidas"
+  },
+  {
+    "nombre": "Paneles fotovoltaicos",
+    "cods": "8541",
+    "descripcion": "Diodos, transistores y dispositivos semiconductores similares; dispositivos semiconductores fotosensibles, incluidas las células fotovoltaicas, aunque estén ensambladas en módulos o paneles; diodos emisores de luz; cristales piezoeléctricos montados"
+  },
+  {
+    "nombre": "Pequeños aparatos",
+    "cods": "8452",
+    "descripcion": "Máquinas de coser, excepto las de coser pliegos de la partida 84.40; muebles, basamentos y tapas o cubiertas especialmente concebidos para máquinas de coser; agujas para máquinas de coser"
+  },
+  {
+    "nombre": "Pequeños aparatos",
+    "cods": "8508",
+    "descripcion": "Aspiradoras"
+  },
+  {
+    "nombre": "Pequeños aparatos",
+    "cods": "8509",
+    "descripcion": "Aparatos electromecánicos con motor eléctrico incorporado, de uso doméstico, excepto las aspiradoras de la partida 85.08"
+  },
+  {
+    "nombre": "Pequeños aparatos",
+    "cods": "8510",
+    "descripcion": "Afeitadoras, máquinas de cortar el pelo o esquilar y aparatos de depilar, con motor eléctrico incorporado"
+  },
+  {
+    "nombre": "Pequeños aparatos",
+    "cods": "8414510000, 8414591000, 8516400000, 9101910000, 9102910000, 9103100000",
+    "descripcion": "Ventiladores de mesa, suelo , pared, cielo raso, techo o ventana, con motor eléctrico incorporado de potencia inferior o igual a 125 w, de los tipos utilizados para enfriar microprocesadores, aparatos de telecomunicación, o máquinas automáticas para tratamiento o procesamiento de datos y sus unidades, planchas eléctricas, relojes eléctricos"
+  },
+  {
+    "nombre": "Pequeños aparatos",
+    "cods": "8516500000",
+    "descripcion": "Hornos de microondas"
+  },
+  {
+    "nombre": "Pequeños aparatos",
+    "cods": "8516710000, 8516720000, 8516790000, 8516801000, 8516802000, 8516803000, 8516804000, 8516809000",
+    "descripcion": "Aparatos para la preparación de café o té, tostadoras de pan, resistencias calentadoras: planas, de sección rectangular; cilíndricas selladas, con recubrimiento exterior de acero no aleado o de cobre, de capacidad inferior o igual a 900 w, de banda (planas, de forma circular o semicircular), cilíndricas, con aletas, de capacidad inferior o igual a 2,500 w, con recubrimiento exterior de acero no aleado o de cobre, de inmersión, de capacidad inferior o igual a 9,000 w, con recubrimiento exterior de acero no aleado o de cobre, blindadas para cocina, excepto las selladas de disco, otras"
+  },
+  {
+    "nombre": "Pequeños aparatos",
+    "cods": "8518",
+    "descripcion": "Micrófonos y sus soportes; altavoces (altoparlantes), incluso montados en sus cajas; auriculares, incluidos los de casco, estén o no combinados con micrófono, y juegos o conjuntos constituidos por un micrófono y uno o varios altavoces (altoparlantes); amplificadores eléctricos de audiofrecuencia; equipos eléctricos para amplificación de sonido"
+  },
+  {
+    "nombre": "Pequeños aparatos",
+    "cods": "8519",
+    "descripcion": "Aparatos de grabación de sonido; aparatos de reproducción de sonido; aparatos de grabación y reproducción de sonido"
+  },
+  {
+    "nombre": "Pequeños aparatos",
+    "cods": "8521",
+    "descripcion": "Aparatos de grabación o reproducción de imagen y sonido (videos), incluso con receptor de señales de imagen y sonido incorporado"
+  },
+  {
+    "nombre": "Pequeños aparatos",
+    "cods": "8525",
+    "descripcion": "\"Aparatos emisores de radiodifusión o televisión, incluso con aparato receptor o de grabación o reproducción de sonido incorporado; cámaras de televisión, cámaras fotográficas"
+  },
+  {
+    "nombre": " digitales y videocámaras.\""
+  },
+  {
+    "nombre": "Pequeños aparatos",
+    "cods": "8527",
+    "descripcion": "Aparatos receptores de radiodifusión, incluso combinados en la misma envoltura (gabinete) con grabador o reproductor de sonido o con reloj"
+  },
+  {
+    "nombre": "Pequeños aparatos",
+    "cods": "8467",
+    "descripcion": "Herramientas neumáticas, hidráulicas o con motor incorporado, incluso eléctrico, de uso manual"
+  },
+  {
+    "nombre": "Pequeños aparatos",
+    "cods": "9503003100, 9503005000, 9503008000",
+    "descripcion": "Trenes eléctricos, incluidos los carriles (rieles), señales y demás accesorios, instrumentos y aparatos, de música, de juguete, los demás juguetes y modelos, con motor"
+  },
+  {
+    "nombre": "Pequeños aparatos",
+    "cods": "8516310000, 8516320000",
+    "descripcion": "Secadores para el cabello, los demás aparatos para el cuidado del cabello"
+  },
+  {
+    "nombre": "Pequeños aparatos",
+    "cods": "8513",
+    "descripcion": "Lámparas eléctricas portátiles concebidas para funcionar con su propia fuente de energía (por ejemplo: de pilas, acumuladores, electromagnéticas),"
+  },
+  {
+    "nombre": "Pequeños aparatos",
+    "cods": "9405101000, 9405102000, 9405109000, 9405200000, 9405300000, 9405401000, 9405402000, 9405409000",
+    "descripcion": "Lámparas y demás aparatos eléctricos de alumbrado, para colgar o fijar al techo o a la pared, excepto los de los tipos utilizados para el alumbrado de espacios o vías públicos. Lámparas eléctricas de cabecera, mesa, oficina o de pie. Guirnaldas eléctricas de los tipos utilizados en árboles de navidad. Los demás aparatos eléctricos de alumbrado."
+  },
+  {
+    "nombre": "Pequeños aparatos",
+    "cods": "8531100000, 8531200000, 8531801000",
+    "descripcion": "avisadores eléctricos de protección contra robo o incendio y aparatos similares; tableros indicadores con dispositivos de cristal líquido (LCD) o diodos emisores de luz (LED), incorporados, timbres, zumbadores, carrillones de puertas y similares"
+  },
+  {
+    "nombre": "Aparatos de informática y de telecomunicaciones pequeños (sin ninguna dimensión exterior superior a los 50 cm)",
+    "cods": "9504500000",
+    "descripcion": "Videoconsolas, máquinas de videojuego, excepto las de la subpartida 9504.3"
+  },
+  {
+    "nombre": "Aparatos de informática y de telecomunicaciones pequeños (sin ninguna dimensión exterior superior a los 50 cm)",
+    "cods": "8470",
+    "descripcion": "Máquinas de calcular y máquinas de bolsillo registradoras, reproductoras y visualizadoras de datos, con función de cálculo; máquinas de contabilidad, de franquear, expedir boletos (tiquetes) y maquinas similares, con dispositivo de cálculo incorporado; cajas registradoras"
+  },
+  {
+    "nombre": "Aparatos de informática y de telecomunicaciones pequeños (sin ninguna dimensión exterior superior a los 50 cm)",
+    "cods": "8471410000, 8471410000, 8471490000, 8471500000, 8471600000, 8471700000, 8471800000, 8471900000",
+    "descripcion": "Que incluyan en la misma envoltura, al menos, una unidad central de proceso y, aunque estén combinadas, una unidad de entrada y una de salida. Las demás presentadas en forma de sistemas. Unidades de proceso, excepto las de las subpartidas 8471.41 u 8471.49, aunque incluyan en la misma envoltura uno o dos de los tipos siguientes de unidades: unidad de memoria, unidad de entrada y unidad de salida, unidades de entrada o salida, aunque incluyan unidades de memoria en la misma envoltura. Unidades de memoria. Las demás unidades de máquinas automáticas para tratamiento o procesamiento de datos. Los demás"
+  },
+  {
+    "nombre": "Aparatos de informática y de telecomunicaciones pequeños (sin ninguna dimensión exterior superior a los 50 cm)",
+    "cods": "8472",
+    "descripcion": "Las demás máquinas y aparatos de oficina (por ejemplo: copiadoras hectografías, mimeógrafos, máquinas de imprimir direcciones, distribuidores automáticos de billetes de banco, máquinas de clasificar, contar o encartuchar monedas, sacapuntas,"
+  },
+  {
+    "nombre": "Aparatos de informática y de telecomunicaciones pequeños (sin ninguna dimensión exterior superior a los 50 cm)",
+    "cods": "8473",
+    "descripcion": "Partes y accesorios (excepto los estuches, fundas y similares) identificables como destinados, exclusiva o principalmente, a las maquinas o aparatos de las partidas 84.69 a 84.72"
+  },
+  {
+    "nombre": "Aparatos de informática y de telecomunicaciones pequeños (sin ninguna dimensión exterior superior a los 50 cm)",
+    "cods": "8517",
+    "descripcion": "Teléfonos, incluidos los teléfonos móviles (celulares) y los de otras redes inalámbricas; los demás aparatos para emisión, transmisión o recepción de voz, imagen u otros datos, incluidos los de comunicación en red con o sin cable (tales como redes locales (LAN) o extendidas (WAN)), distintos de los aparatos para transmisión o recepción de las partidas 84.43, 85.25, 85.27 u 85.28."
+  }
+]
