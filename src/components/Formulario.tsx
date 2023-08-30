@@ -46,7 +46,7 @@ export default function Formulario() {
           name="file-input-importaciones"
           id="file-input"
           accept=".xls,.xlsx"
-          className="block w-full border border-slate-100 shadow-sm rounded-md text-sm focus:z-10 focus:border-blue-500 focus:ring-blue-500 dark:bg-slate-900 dark:border-slate-700 dark:text-slate-400 file:border-0 file:bg-slate-100 file:mr-4 file:py-2 file:px-4 dark:file:bg-slate-700 dark:file:text-slate-400 cursor-pointer"
+          className="block w-full border border-slate-200 shadow-sm rounded-md text-sm focus:z-10 focus:border-blue-500 focus:ring-blue-500 dark:bg-slate-900 dark:border-slate-700 dark:text-slate-400 file:border-0 file:bg-slate-200 file:mr-4 file:py-2 file:px-4 file:text-slate-600 dark:file:bg-slate-700 dark:file:text-slate-400 cursor-pointer"
           onChange={onChangeImports}
         />
       </section>
@@ -62,7 +62,7 @@ export default function Formulario() {
           name="file-input-exportaciones"
           id="file-input"
           accept=".xls,.xlsx"
-          className="block w-full border border-slate-100 shadow-sm rounded-md text-sm focus:z-10 focus:border-blue-500 focus:ring-blue-500 dark:bg-slate-900 dark:border-slate-700 dark:text-slate-400 file:border-0 file:bg-slate-100 file:mr-4 file:py-2 file:px-4 dark:file:bg-slate-700 dark:file:text-slate-400 cursor-pointer"
+          className="block w-full border border-slate-200 shadow-sm rounded-md text-sm focus:z-10 focus:border-blue-500 focus:ring-blue-500 dark:bg-slate-900 dark:border-slate-700 dark:text-slate-400 file:border-0 file:bg-slate-200 file:mr-4 file:py-2 file:px-4 file:text-slate-600 dark:file:bg-slate-700 dark:file:text-slate-400 cursor-pointer"
           onChange={onChangeExports}
         />
       </section>
