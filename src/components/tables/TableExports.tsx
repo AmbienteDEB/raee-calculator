@@ -48,6 +48,11 @@ export default function TableExport() {
                     {exports[year][cat].toFixed(2)}
                   </td>
                 ))}
+                <td className="px-6 py-2">
+                  {Object.values(exports[year])
+                    .reduce((acum, current) => acum + current, 0)
+                    .toFixed(2)}
+                </td>
               </tr>
             ))}
           {!exports && (

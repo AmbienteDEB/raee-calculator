@@ -48,6 +48,13 @@ export default function TableImports() {
                     {imports[year][cat].toFixed(2)}
                   </td>
                 ))}
+                {
+                  <td className="px-6 py-2">
+                    {Object.values(imports[year])
+                      .reduce((acum, current) => acum + current, 0)
+                      .toFixed(2)}
+                  </td>
+                }
               </tr>
             ))}
           {!imports && (

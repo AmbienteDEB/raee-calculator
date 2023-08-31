@@ -68,7 +68,6 @@ const initializeValues = (years: string[]) => {
     initialValues[year] = {
       ...initialValuesByCategory,
       default: 0,
-      total: 0,
     };
   });
 
