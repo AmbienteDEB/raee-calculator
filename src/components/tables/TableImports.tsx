@@ -1,8 +1,8 @@
-import { useRaeeCalculator } from "../../hooks/storeRaeeCalculator";
+import { useRaeeCalculatorStore } from "../../hooks/storeRaeeCalculator";
 import { CATEGORIES } from "../../constants/categories";
 
 export default function TableImports() {
-  const imports = useRaeeCalculator((state) => state.imports);
+  const imports = useRaeeCalculatorStore((state) => state.imports);
 
   return (
     <div className="relative overflow-x-auto sm:rounded-lg">

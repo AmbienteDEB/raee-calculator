@@ -26,33 +26,33 @@ export const validateRaeeFormat = (data: unknown) => {
   data.forEach((row, index) => {
     if (!Array.isArray(row)) return false;
     if (!omitedRows.has(index)) {
-      console.log(`raee ${index - 2}`, row);
+      //console.log(`raee ${index - 2}`, row);
       row.forEach((col, index) => {
         if (!omitedCols.has(index)) {
           const year = data[ROW_YEARS][index];
           const category = getCategoryFromCod(row[COL_COD].replace(" ", ""));
           result[year][category] += parseFloat(col);
           // result[year]["total"] += parseFloat(col);
-          console.log(`col-${index}`, col);
+          //console.log(`col-${index}`, col);
         }
       });
     } else if (index === ROW_YEARS) {
-      console.log("years", row);
+      //console.log("years", row);
       result = initializeValues(row);
     } else if (index === ROW_HEADERS) {
-      console.log("headers", row);
+      //console.log("headers", row);
     }
   });
 
-  for (const year in result) {
-    let categoryTotal = 0;
-    for (const category in result[year]) {
-      categoryTotal += result[year][category];
-    }
-    console.log(year, categoryTotal);
-  }
+  // for (const year in result) {
+  //   let categoryTotal = 0;
+  //   for (const category in result[year]) {
+  //     categoryTotal += result[year][category];
+  //   }
+  //   //console.log(year, categoryTotal);
+  // }
 
-  console.log("result", result);
+  //console.log("result", result);
   return result;
 };
 

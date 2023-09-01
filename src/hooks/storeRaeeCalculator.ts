@@ -8,22 +8,22 @@ type Store = {
   exports?: ResultByYear;
 };
 
-export const useRaeeCalculator = create<Store>()((set) => ({
+export const useRaeeCalculatorStore = create<Store>()((set) => ({
   count: 1,
   inc: () => set((state) => ({ count: state.count + 1 })),
 }));
 
 export const setImports = (imports?: ResultByYear) => {
-  useRaeeCalculator.setState({ imports });
+  useRaeeCalculatorStore.setState({ imports });
 };
 
 export const setExports = (exports?: ResultByYear) => {
-  useRaeeCalculator.setState({ exports });
+  useRaeeCalculatorStore.setState({ exports });
 };
 
 export const calculateNetResult = () => {
-  const imports = useRaeeCalculator.getState().imports;
-  const exports = useRaeeCalculator.getState().exports;
+  const imports = useRaeeCalculatorStore.getState().imports;
+  const exports = useRaeeCalculatorStore.getState().exports;
   if (imports && exports) {
     //
   }

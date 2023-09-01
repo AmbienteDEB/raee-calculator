@@ -1,9 +1,9 @@
-import { useRaeeCalculator } from "../../hooks/storeRaeeCalculator";
+import { useRaeeCalculatorStore } from "../../hooks/storeRaeeCalculator";
 import { CATEGORIES } from "../../constants/categories";
 
 export default function TableTotal() {
-  const imports = useRaeeCalculator((state) => state.imports);
-  const exports = useRaeeCalculator((state) => state.exports);
+  const imports = useRaeeCalculatorStore((state) => state.imports);
+  const exports = useRaeeCalculatorStore((state) => state.exports);
 
   return (
     <div className="relative overflow-x-auto sm:rounded-lg">
@@ -44,7 +44,7 @@ export default function TableTotal() {
                 </th>
                 {Object.keys(imports[year]).map((cat, catIndex) => (
                   <td key={`cat-${catIndex}`} className="px-6 py-2">
-                    {(exports[year][cat] - imports[year][cat]).toFixed(2)}
+                    {(imports[year][cat] - exports[year][cat]).toFixed(2)}
                   </td>
                 ))}
               </tr>

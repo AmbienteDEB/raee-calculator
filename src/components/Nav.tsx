@@ -36,9 +36,9 @@ export function Nav({
         <a className="text-sm font-medium transition-colors hover:text-primary">
           Calculator
         </a>
-        <a className="text-sm font-medium text-muted-foreground transition-colors hover:text-primary">
+        {/* <a className="text-sm font-medium text-muted-foreground transition-colors hover:text-primary">
           Documentación
-        </a>
+        </a> */}
       </div>
       <DarkModeButton />
     </nav>
